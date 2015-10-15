@@ -63,4 +63,4 @@ Class.Model.js 还提供了final关键字的支持，只要在定义类的参数
 
 ## 实例化对象
 
-与原生的javascript一样，对于已经定义的类，只需要调用 NewClass.new(args)方法即可，args一般为一个js对象，args可以在实例的initialize方法中获取到
+对于已经定义的类，只需要调用 NewClass.new(args)方法即可，args一般为一个js对象，args可以在实例的initialize方法中获取到
